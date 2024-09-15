@@ -1,0 +1,14 @@
+Successfully opened file version.h
+Firmware Version on line 10 position 308 in file
+Firmware Version on line 11 position 330 in file
+major rev num: 1
+minor rev num: 3
+bugfix rev num: 8
+Current build number is 8 
+New build number is 9
+Firmware Version on line 22 position 533 in file
+Number of lines in version.h: 34
+Overwriting the build number in version.h...
+Build version over-write is complete.
+Overwriting the fw version in version.h...
+Build version over-write is complete. Closing version.h...
