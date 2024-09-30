@@ -3,7 +3,7 @@ Microchip Studio version: 7.0.2594
 
 Builds on the basic USB CDC example found here: https://github.com/johnpetrilli90/basic_usb_cdc_samd21
 
-Adds in the command FIFO found here: 
+Adds in the command FIFO found here: https://github.com/johnpetrilli90/embedded_fifo
 
 Adds a few commands to communicate between the PC and microcontroller over a serial terminal.
 
